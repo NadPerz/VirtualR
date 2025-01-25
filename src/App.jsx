@@ -11,7 +11,7 @@ const App = () => {
   return (
     <>
       <Navbar/>
-      <div className="px-6 pt-20 mx-auto max-w-7xl">
+      <div className="px-6 pt-20 mx-auto antialiased max-w-7xl">
         <HeroSection/>
         <FeatureSection/>
         <Workflow/>
